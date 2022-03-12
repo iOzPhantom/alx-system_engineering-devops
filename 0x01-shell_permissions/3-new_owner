@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -l
+i#!/bin/bash
+chown betty hello
